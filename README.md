@@ -99,7 +99,7 @@ https://github.com/devnabin/TocFinalProject
 ## Author
 
 - **Nabin Bhandari**  
-  Graduate Student, MS Computer SCience <br>
+  Graduate Student, MS Computer Science <br>
   Dakota State University <br>
   nabin.bhandari@trojans.dsu.edu <br>
   Student ID: 101213073 
